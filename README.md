@@ -1,2 +1,2 @@
 # Controller
-ROS Navigation Stack and MPC on Xenomai
+Comobot URDF and Xenomai template
